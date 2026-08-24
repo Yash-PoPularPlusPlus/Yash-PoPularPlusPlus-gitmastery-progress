@@ -1,0 +1,65 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787591179.906835,
+    "completed_at": 1787591181.323644,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787591357.586794,
+    "completed_at": 1787591360.710214,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty.",
+      "Answer for What is the commit message of the commit 20469ceebf91dc465832878747a8953a9570cd1f? is empty.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787591439.953071,
+    "completed_at": 1787591441.310523,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787590897.891167,
+    "completed_at": 1787590899.399537,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1787591036.319083,
+    "completed_at": 1787591037.61741,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787590640.505107,
+    "completed_at": 1787590641.774454,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1787590784.617855,
+    "completed_at": 1787590785.869427,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
